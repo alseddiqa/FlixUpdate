@@ -2,7 +2,7 @@
 //  MovieGridCell.swift
 //  flixster
 //
-//  Created by Vinh Vu on 2/27/20.
+//  Created by Abdullah Alseddiq on 2/27/20.
 //  Copyright © 2020 Vinh Vu. All rights reserved.
 //
 
